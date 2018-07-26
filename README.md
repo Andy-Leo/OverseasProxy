@@ -50,5 +50,3 @@ def get_proxy():
     except ConnectionError:
         return None
 ```
-# InternalProxy
-# InternalProxy
